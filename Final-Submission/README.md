@@ -11,3 +11,8 @@
 - Network configuration and testing evidence
 - Spanning Tree Protocol (STP) implementation
 - Presentation and supporting evidence
+## Presentation Video
+
+The recorded project presentation is available here:
+
+[Watch the CMPG325 Final Presentation](https://drive.google.com/file/d/1EOjrItOD5av8J91HNPgybRiwiRL7_9AZ/view?usp=drivesdk)
